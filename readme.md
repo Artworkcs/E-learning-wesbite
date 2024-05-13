@@ -32,7 +32,7 @@ Before you begin, ensure you have the following prerequisites:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/keerti-1924/E-Learning-Website-HTML-CSS.git
+   git clone https://github.com/Artworkcs/E-learning-wesbite.git
 
 2. Open the project in your preferred text editor.
 3. Launch the `index.html` file in a web browser.
@@ -46,13 +46,6 @@ Before you begin, ensure you have the following prerequisites:
 
 📱 Moreover, I've ensured that the website is fully responsive on all screens, making it accessible and user-friendly across various devices. 📱💡
 
-## Contributing 
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](/issues).
-
-## Show your support 
-
-Give a ⭐️ if you like this project!
 
 
 ## License
